@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Parcial1_Ap2.Models
+namespace MariaParcial1_AP2.Models
 {
     public class Producto
     {
