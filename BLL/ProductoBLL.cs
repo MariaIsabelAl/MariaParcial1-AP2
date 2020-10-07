@@ -8,7 +8,7 @@ using System.Linq.Expressions;
 using System.Reflection.Metadata.Ecma335;
 using System.Threading.Tasks;
 
-namespace Parcial1_Ap2.BLL
+namespace MariaParcial1_AP2.BLL
 {
     public class ProductoBLL
     {
